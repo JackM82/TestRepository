@@ -1,6 +1,8 @@
-body{
+h1{
     color:blue;
 }
+
 li{
-    background-color: yellow;
+    background-color: aquamarine;
+    list-style-type: square;
 }
